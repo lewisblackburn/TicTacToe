@@ -1,0 +1,12 @@
+/Users/zxffo/dev/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.deps.json
+/Users/zxffo/dev/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.runtimeconfig.json
+/Users/zxffo/dev/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.runtimeconfig.dev.json
+/Users/zxffo/dev/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.dll
+/Users/zxffo/dev/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.pdb
+/Users/zxffo/dev/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.csproj.AssemblyReference.cache
+/Users/zxffo/dev/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.AssemblyInfoInputs.cache
+/Users/zxffo/dev/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.AssemblyInfo.cs
+/Users/zxffo/dev/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/zxffo/dev/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.dll
+/Users/zxffo/dev/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.pdb
+/Users/zxffo/dev/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.genruntimeconfig.cache
